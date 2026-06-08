@@ -30,15 +30,9 @@
 
 ## 🚀 About Me
 
-Software Engineering enthusiast with strong interest in:
+Software Engineering enthusiast with a strong foundation in **Data Structures and Algorithms (DSA)**, **Competitive Programming**, **Backend Development**, and **System Design**.
 
-- Data Structures and Algorithms (DSA)
-- Competitive Programming
-- Backend Development
-- System Design
-- Core Computer Science Fundamentals
-
-I enjoy solving algorithmic problems, understanding systems from first principles, and building efficient software.
+I enjoy solving challenging algorithmic problems, understanding systems from first principles, and building efficient software with a focus on performance, scalability, and maintainability.
 
 ---
 
@@ -88,6 +82,14 @@ I enjoy solving algorithmic problems, understanding systems from first principle
   <a href="https://www.geeksforgeeks.org/profile/writeahead">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge" />
   </a>
+</p>
+
+---
+
+## 💻 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/writeAhead?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
