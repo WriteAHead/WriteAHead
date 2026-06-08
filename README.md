@@ -1,24 +1,28 @@
-# Hi !!!
+# <p align="center">Hi 👋</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WriteAHead&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Enthusiast;Competitive+Programmer;Data+Structures+and+Algorithms+(DSA);Backend+Developer;System+Design+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WriteAHead&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <a href="https://github.com/WriteAHead">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://leetcode.com/u/writeAhead/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://codeforces.com/profile/writeAhead">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge" />
   </a>
   <a href="https://atcoder.jp/users/writeAhead">
-    <img src="https://img.shields.io/badge/AtCoder-00599C?style=for-the-badge">
+    <img src="https://img.shields.io/badge/AtCoder-00599C?style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/writeahead">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge" />
   </a>
 </p>
 
@@ -26,16 +30,15 @@
 
 ## 🚀 About Me
 
-Software Engineering enthusiast with a strong foundation in **Data Structures and Algorithms (DSA)**, **Competitive Programming**, **Backend Development**, **System Design**, and **Core Computer Science Fundamentals**.
+Software Engineering enthusiast with strong interest in:
 
-I enjoy solving algorithmic problems, designing efficient systems, and understanding how software works beneath the abstraction layers. My primary focus is on writing scalable, maintainable, and high-performance software.
+- Data Structures and Algorithms (DSA)
+- Competitive Programming
+- Backend Development
+- System Design
+- Core Computer Science Fundamentals
 
-* 🎓 Final-Year Computer Science and Engineering Student
-* 💻 Strongly focused on Software Engineering and Backend Development
-* 🧠 Passionate about Problem Solving and Competitive Programming
-* ⚙️ Interested in Distributed Systems and System Design
-* 📚 Continuous learner of Computer Science Fundamentals
-* 🚀 Building a strong foundation for Software Development Engineering (SDE) roles
+I enjoy solving algorithmic problems, understanding systems from first principles, and building efficient software.
 
 ---
 
@@ -43,105 +46,118 @@ I enjoy solving algorithmic problems, designing efficient systems, and understan
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
 
-### Backend Development
+### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql)
-
-### Core Computer Science
-
-* Data Structures and Algorithms (DSA)
-* Object-Oriented Programming (OOP)
-* Operating Systems (OS)
-* Database Management Systems (DBMS)
-* Computer Networks (CN)
-* System Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square\&logo=visual-studio-code)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Computer Science
+
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Operating Systems (OS)
+- Database Management Systems (DBMS)
+- Computer Networks (CN)
+- System Design
 
 ---
 
-## 🏆 Competitive Programming
+## 🏆 Competitive Programming Profiles
 
-I actively practice algorithmic problem solving across multiple platforms to strengthen analytical thinking, coding efficiency, and software engineering fundamentals.
-
-### Profiles
-
-* LeetCode → https://leetcode.com/u/writeAhead/
-* Codeforces → https://codeforces.com/profile/writeAhead
-* AtCoder → https://atcoder.jp/users/writeAhead
-* GeeksforGeeks → https://www.geeksforgeeks.org/profile/writeahead
+<p align="center">
+  <a href="https://leetcode.com/u/writeAhead/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/writeAhead">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge" />
+  </a>
+  <a href="https://atcoder.jp/users/writeAhead">
+    <img src="https://img.shields.io/badge/AtCoder-Profile-darkblue?style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/writeahead">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WriteAHead&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WriteAHead&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteAHead&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=WriteAHead&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteAHead&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WriteAHead&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WriteAHead&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WriteAHead&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/WriteAHead/WriteAHead/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WriteAHead&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Advanced Data Structures and Algorithms (DSA)
-* Graph Algorithms
-* Dynamic Programming
-* Low-Level Design (LLD)
-* High-Level Design (HLD)
-* Backend Engineering
-* Scalable Systems
-* Distributed Systems
-* Competitive Programming
-
----
-
-## 🌟 Philosophy
-
-> Simplicity scales better than complexity.
->
-> Understand the fundamentals, solve the problem, then optimize the solution.
+- Advanced Data Structures and Algorithms (DSA)
+- Dynamic Programming
+- Graph Algorithms
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- Backend Development
+- Distributed Systems
+- Scalable Software Systems
 
 ---
 
 ## 📫 Connect
 
-* GitHub: https://github.com/WriteAHead
-* LeetCode: https://leetcode.com/u/writeAhead/
-* Codeforces: https://codeforces.com/profile/writeAhead
-* AtCoder: https://atcoder.jp/users/writeAhead
-* GeeksforGeeks: https://www.geeksforgeeks.org/profile/writeahead
+<p align="center">
+  <a href="https://github.com/WriteAHead">GitHub</a> •
+  <a href="https://leetcode.com/u/writeAhead/">LeetCode</a> •
+  <a href="https://codeforces.com/profile/writeAhead">Codeforces</a> •
+  <a href="https://atcoder.jp/users/writeAhead">AtCoder</a> •
+  <a href="https://www.geeksforgeeks.org/profile/writeahead">GeeksforGeeks</a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Building strong fundamentals today for better systems tomorrow.</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <b>Understand. Build. Optimize.</b>
 </p>
