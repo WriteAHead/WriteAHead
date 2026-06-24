@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>Subham Luitel</span>
+                    <span>Subham</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -213,7 +213,7 @@
                 </h2>
             </section>
             <div class="column largeable">
-                <h3>On Subham Luitel's repositories</h3>
+                <h3>On Subham's repositories</h3>
                 <div class="row fill-width">
                     <section class="column">
                         <h3 class="no-margin-top">Issues</h3>
@@ -1427,6 +1427,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1541,7 +1546,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2026, 02:48:30  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2026, 02:49:11  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
