@@ -16,6 +16,12 @@
 
 <br/>
 
+<div align="center">
+<img src="./dragon-banner.svg" width="100%"/>
+</div>
+
+<br/>
+
 ## 🚀 About Me
 
 Software Engineering enthusiast with a strong foundation in **Data Structures & Algorithms**, **Competitive Programming**, **Backend Development**, and **System Design**.
