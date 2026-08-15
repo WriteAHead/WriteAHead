@@ -1,0 +1,118 @@
+<svg width="100%" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10131c"/>
+      <stop offset="100%" stop-color="#1a2033"/>
+    </linearGradient>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2f3550"/>
+      <stop offset="100%" stop-color="#5b6690"/>
+    </linearGradient>
+    <radialGradient id="moonGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e3e5ef"/>
+      <stop offset="100%" stop-color="#9aa3c4"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#skyGrad)"/>
+
+  <!-- moon -->
+  <circle cx="1090" cy="55" r="34" fill="url(#moonGrad)" opacity="0.85"/>
+  <circle cx="1078" cy="45" r="6" fill="#1a2033" opacity="0.3"/>
+  <circle cx="1100" cy="65" r="4" fill="#1a2033" opacity="0.25"/>
+
+  <!-- twinkling stars -->
+  <g fill="#c3c8de">
+    <circle cx="60" cy="40" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="80" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="30" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="110" r="1"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="50" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="20" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="90" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="45" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="120" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="30" cy="150" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="180" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="170" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ground silhouette hills -->
+  <path d="M0,260 L0,220 C150,190 300,235 450,210 C600,185 750,230 900,205 C1000,190 1100,215 1200,200 L1200,260 Z" fill="#161a28"/>
+
+  <!-- ===== flying dragon ===== -->
+  <g id="dragon">
+    <g transform="scale(0.55)">
+
+      <!-- back wing (behind body) -->
+      <g transform="translate(15,-10)">
+        <path d="M0,0 C-10,-45 10,-95 55,-115 C30,-80 35,-45 15,-10 C35,5 45,25 30,45 C10,20 5,10 0,0 Z"
+              fill="#3a4160" opacity="0.85"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-30 0 0; 18 0 0; -30 0 0" dur="0.55s" repeatCount="indefinite" additive="sum"/>
+      </g>
+
+      <!-- tail -->
+      <path d="M-70,15 C-130,25 -175,10 -205,35 C-185,20 -150,22 -125,30 C-105,35 -85,28 -70,15 Z" fill="url(#bodyGrad)"/>
+      <path d="M-205,35 L-225,20 L-215,45 L-235,45 L-205,35 Z" fill="#5b6690"/>
+
+      <!-- body -->
+      <path d="M-75,20 C-40,-15 20,-25 65,-12 C90,-5 100,8 108,-2 C112,6 108,16 96,18
+               C80,26 55,30 30,28 C0,26 -35,32 -75,20 Z" fill="url(#bodyGrad)"/>
+
+      <!-- belly scales -->
+      <g fill="#8891b8" opacity="0.55">
+        <ellipse cx="10" cy="18" rx="6" ry="3"/>
+        <ellipse cx="30" cy="20" rx="6" ry="3"/>
+        <ellipse cx="50" cy="18" rx="6" ry="3"/>
+      </g>
+
+      <!-- head -->
+      <path d="M96,18 C104,4 112,-8 130,-10 C146,-11 158,-4 165,4
+               C158,2 148,2 140,6 C150,8 158,14 160,22
+               C150,20 138,20 128,16 C118,20 106,22 96,18 Z" fill="url(#bodyGrad)"/>
+
+      <!-- horns -->
+      <path d="M118,-9 L112,-26 L124,-12 Z" fill="#5b6690"/>
+      <path d="M132,-10 L130,-30 L140,-12 Z" fill="#5b6690"/>
+
+      <!-- eye -->
+      <circle cx="140" cy="0" r="2.6" fill="#e3e5ef"/>
+
+      <!-- front wing (in front of body) -->
+      <g transform="translate(25,-8)">
+        <path d="M0,0 C-8,-55 15,-110 65,-135 C35,-95 40,-55 18,-14 C40,4 52,28 35,52 C12,24 6,12 0,0 Z"
+              fill="#5b6690"/>
+        <path d="M0,0 C10,-40 25,-75 55,-105 M0,0 C6,-30 15,-55 32,-78 M0,0 C2,-18 6,-32 14,-46"
+              stroke="#2f3550" stroke-width="2" fill="none" opacity="0.5"/>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-38 0 0; 22 0 0; -38 0 0" dur="0.55s" repeatCount="indefinite" additive="sum"/>
+      </g>
+
+      <!-- legs -->
+      <path d="M15,25 C10,35 8,45 14,52 C18,44 20,36 22,27 Z" fill="#3a4160"/>
+      <path d="M50,26 C46,36 45,46 51,53 C55,45 56,37 58,28 Z" fill="#3a4160"/>
+
+      <!-- fire breath puffs -->
+      <g fill="#c3c8de">
+        <circle cx="170" cy="6" r="4">
+          <animate attributeName="cx" values="170;210;250" dur="1.4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.7;0.3;0" dur="1.4s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="4;8;12" dur="1.4s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="170" cy="6" r="3">
+          <animate attributeName="cx" values="170;200;235" dur="1.4s" begin="0.5s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="6;-4;2" dur="1.4s" begin="0.5s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.6;0.25;0" dur="1.4s" begin="0.5s" repeatCount="indefinite"/>
+          <animate attributeName="r" values="3;7;10" dur="1.4s" begin="0.5s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+    </g>
+  </g>
+
+  <animateMotion xlink:href="#dragon"
+    path="M -150,190 C 50,110 150,230 320,150 C 480,80 620,200 800,120 C 950,60 1050,160 1250,90"
+    dur="14s" repeatCount="indefinite" rotate="auto"/>
+
+</svg>
