@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋</p>
+[# <p align="center">Hi 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Enthusiast;Data+Structures+and+Algorithms+(DSA);Backend+Developer;System+Design+Learner" />
@@ -163,3 +163,4 @@ I enjoy solving challenging algorithmic problems, understanding systems from fir
 <p align="center">
   <b>Understand. Build. Optimize.</b>
 </p>
+](https://github.com/WriteAHead/WriteAHead)
