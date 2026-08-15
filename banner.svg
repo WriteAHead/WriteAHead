@@ -1,0 +1,91 @@
+<svg width="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12151f">
+        <animate attributeName="stop-color" values="#12151f;#161a28;#131722;#12151f" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#171c2b">
+        <animate attributeName="stop-color" values="#171c2b;#1c2236;#181d2c;#171c2b" dur="16s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1b2033">
+        <animate attributeName="stop-color" values="#1b2033;#20263c;#1c2130;#1b2033" dur="18s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.2" result="blur">
+        <animate attributeName="stdDeviation" values="1.4;2.6;1.4" dur="6s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- graph network backdrop (DSA motif) -->
+  <g stroke="#4b5578" stroke-width="1" opacity="0.3">
+    <line x1="90" y1="55" x2="190" y2="95"/>
+    <line x1="190" y1="95" x2="150" y2="175"/>
+    <line x1="150" y1="175" x2="70" y2="210"/>
+    <line x1="190" y1="95" x2="270" y2="60"/>
+    <line x1="270" y1="60" x2="330" y2="130"/>
+    <line x1="330" y1="130" x2="260" y2="190"/>
+    <line x1="150" y1="175" x2="260" y2="190"/>
+    <line x1="900" y1="230" x2="960" y2="180"/>
+    <line x1="960" y1="180" x2="1030" y2="210"/>
+    <line x1="960" y1="180" x2="940" y2="110"/>
+    <line x1="940" y1="110" x2="1010" y2="70"/>
+    <line x1="1010" y1="70" x2="1080" y2="100"/>
+  </g>
+
+  <g fill="#8891b8" opacity="0.6">
+    <circle cx="90" cy="55" r="3.2"><animate attributeName="cy" values="55;46;55" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="95" r="3.6"><animate attributeName="cy" values="95;104;95" dur="8.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="175" r="3"><animate attributeName="cy" values="175;166;175" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="210" r="2.6"><animate attributeName="cy" values="210;218;210" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="270" cy="60" r="3.4"><animate attributeName="cy" values="60;70;60" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="130" r="3"><animate attributeName="cy" values="130;121;130" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="190" r="3.2"><animate attributeName="cy" values="190;199;190" dur="6.8s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="230" r="3"><animate attributeName="cy" values="230;221;230" dur="7.2s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="180" r="3.6"><animate attributeName="cy" values="180;189;180" dur="8.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="210" r="2.8"><animate attributeName="cy" values="210;202;210" dur="6.2s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="110" r="3.2"><animate attributeName="cy" values="110;119;110" dur="9.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="70" r="3"><animate attributeName="cy" values="70;61;70" dur="7.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="100" r="2.6"><animate attributeName="cy" values="100;109;100" dur="8.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- orbit ring -->
+  <g transform="translate(1050,150)" opacity="0.55">
+    <circle r="42" fill="none" stroke="#5b6690" stroke-width="1"/>
+    <circle r="66" fill="none" stroke="#3d4568" stroke-width="1"/>
+    <g>
+      <circle cx="42" cy="0" r="3.6" fill="#9aa7cf"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="66" cy="0" r="2.8" fill="#7c8db5"/>
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="15s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- flowing wave layers -->
+  <g opacity="0.35">
+    <path d="M0,280 C100,260 200,300 300,280 C400,260 500,300 600,280 C700,260 800,300 900,280 C1000,260 1100,300 1200,280 L1200,300 L0,300 Z" fill="#232b45"/>
+    <path d="M0,280 C100,260 200,300 300,280 C400,260 500,300 600,280 C700,260 800,300 900,280 C1000,260 1100,300 1200,280 L1200,300 L0,300 Z" fill="#232b45" transform="translate(1200,0)"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="22s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0.22">
+    <path d="M0,290 C150,275 250,300 400,288 C550,276 650,300 800,288 C950,276 1050,300 1200,288 L1200,300 L0,300 Z" fill="#2c3a58"/>
+    <path d="M0,290 C150,275 250,300 400,288 C550,276 650,300 800,288 C950,276 1050,300 1200,288 L1200,300 L0,300 Z" fill="#2c3a58" transform="translate(1200,0)"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="30s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="130" font-family="Verdana, Geneva, sans-serif" font-size="46" font-weight="700" fill="#d7dbee" text-anchor="middle" filter="url(#softGlow)">WriteAHead</text>
+  <text x="600" y="168" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#8891b8" text-anchor="middle" letter-spacing="0.5">Software Engineer · Competitive Programmer · System Design</text>
+  <text x="600" y="196" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#5b6690" text-anchor="middle" letter-spacing="3">UNDERSTAND — BUILD — OPTIMIZE</text>
+</svg>
