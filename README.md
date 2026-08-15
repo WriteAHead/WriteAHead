@@ -1,166 +1,109 @@
-<p align="center">Hi 👋</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Enthusiast;Data+Structures+and+Algorithms+(DSA);Backend+Developer;System+Design+Learner" />
-</p>
+<img src="./banner.svg" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WriteAHead&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=WriteAHead&label=Profile+Views&color=5b6690&style=flat-square" />
 
-<p align="center">
-  <a href="https://github.com/WriteAHead">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/writeAhead/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://codeforces.com/profile/writeAhead">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge" />
-  </a>
-  <a href="https://atcoder.jp/users/writeAhead">
-    <img src="https://img.shields.io/badge/AtCoder-00599C?style=for-the-badge" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/writeahead">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://github.com/WriteAHead"><img src="https://img.shields.io/badge/GitHub-2b2f3a?style=for-the-badge&logo=github&logoColor=d7dbee" /></a>
+<a href="https://leetcode.com/u/writeAhead/"><img src="https://img.shields.io/badge/LeetCode-2b2f3a?style=for-the-badge&logo=leetcode&logoColor=d7dbee" /></a>
+<a href="https://codeforces.com/profile/writeAhead"><img src="https://img.shields.io/badge/Codeforces-2b2f3a?style=for-the-badge&logo=codeforces&logoColor=d7dbee" /></a>
+<a href="https://atcoder.jp/users/writeAhead"><img src="https://img.shields.io/badge/AtCoder-2b2f3a?style=for-the-badge&logoColor=d7dbee" /></a>
+<a href="https://www.geeksforgeeks.org/profile/writeahead"><img src="https://img.shields.io/badge/GeeksforGeeks-2b2f3a?style=for-the-badge&logo=geeksforgeeks&logoColor=d7dbee" /></a>
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-Software Engineering enthusiast with a strong foundation in **Data Structures and Algorithms (DSA)**, **Competitive Programming**, **Backend Development**, and **System Design**.
+Software Engineering enthusiast with a strong foundation in **Data Structures & Algorithms**, **Competitive Programming**, **Backend Development**, and **System Design**.
 
 I enjoy solving challenging algorithmic problems, understanding systems from first principles, and building efficient software with a focus on performance, scalability, and maintainability.
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=cpp,java,python" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend & Databases</b><br/><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /></td>
+</tr>
+</table>
+
+**Core CS:** Data Structures & Algorithms • OOP • Operating Systems • DBMS • Computer Networks • System Design
+
+<br/>
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/writeAhead?theme=dark&font=Fira%20Code&ext=contest" width="48%"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=writeAhead&theme=dark" width="48%"/>
+
+</div>
+
+<div align="center">
+<img src="./codeforces-rating.svg" width="90%"/>
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+<a href="https://leetcode.com/u/writeAhead/"><img src="https://img.shields.io/badge/LeetCode-Profile-2b2f3a?style=flat-square&logo=leetcode&logoColor=d7dbee"/></a>
+<a href="https://codeforces.com/profile/writeAhead"><img src="https://img.shields.io/badge/Codeforces-Profile-2b2f3a?style=flat-square&logo=codeforces&logoColor=d7dbee"/></a>
+<a href="https://atcoder.jp/users/writeAhead"><img src="https://img.shields.io/badge/AtCoder-Profile-2b2f3a?style=flat-square"/></a>
+<a href="https://www.geeksforgeeks.org/profile/writeahead"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2b2f3a?style=flat-square&logo=geeksforgeeks&logoColor=d7dbee"/></a>
 </p>
 
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Computer Science
-
-- Data Structures and Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Operating Systems (OS)
-- Database Management Systems (DBMS)
-- Computer Networks (CN)
-- System Design
-
----
-
-## 🏆 Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/writeAhead/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://codeforces.com/profile/writeAhead">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge" />
-  </a>
-  <a href="https://atcoder.jp/users/writeAhead">
-    <img src="https://img.shields.io/badge/AtCoder-Profile-darkblue?style=for-the-badge" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/writeahead">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 💻 LeetCode Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/writeAhead?theme=dark&font=Nunito&ext=contest" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WriteAHead&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteAHead&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WriteAHead&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<br/>
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WriteAHead&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WriteAHead&theme=minimal&hide_border=true&bg_color=131722&color=8891b8&line=5b6690&point=d7dbee" />
+</div>
 
----
+<br/>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/WriteAHead/WriteAHead/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WriteAHead/WriteAHead/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/WriteAHead/WriteAHead/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/WriteAHead/WriteAHead/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
 
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WriteAHead&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
+<br/>
 
 ## 🎯 Current Focus
 
-- Advanced Data Structures and Algorithms (DSA)
-- Dynamic Programming
-- Graph Algorithms
-- Low-Level Design (LLD)
-- High-Level Design (HLD)
-- Backend Development
-- Distributed Systems
+- Advanced Data Structures & Algorithms
+- Dynamic Programming • Graph Algorithms
+- Low-Level Design (LLD) • High-Level Design (HLD)
+- Backend Development • Distributed Systems
 - Scalable Software Systems
 
----
+<br/>
 
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://github.com/WriteAHead">GitHub</a> •
-  <a href="https://leetcode.com/u/writeAhead/">LeetCode</a> •
-  <a href="https://codeforces.com/profile/writeAhead">Codeforces</a> •
-  <a href="https://atcoder.jp/users/writeAhead">AtCoder</a> •
-  <a href="https://www.geeksforgeeks.org/profile/writeahead">GeeksforGeeks</a>
+<a href="https://github.com/WriteAHead">GitHub</a> •
+<a href="https://leetcode.com/u/writeAhead/">LeetCode</a> •
+<a href="https://codeforces.com/profile/writeAhead">Codeforces</a> •
+<a href="https://atcoder.jp/users/writeAhead">AtCoder</a> •
+<a href="https://www.geeksforgeeks.org/profile/writeahead">GeeksforGeeks</a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>Understand. Build. Optimize.</b>
-</p>
-](https://github.com/WriteAHead/WriteAHead)
+<div align="center">
+<b style="color:#8891b8">Understand. Build. Optimize.</b>
+</div>
