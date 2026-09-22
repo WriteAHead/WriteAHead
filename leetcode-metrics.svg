@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.12687854151269 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">310</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.288987435328902 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">312</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4059</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.55455833726972 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">158</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.709966934341047 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">159</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2117</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -46,8 +46,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.169057377049182 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">45</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.506147540983605 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">46</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/976</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -63,12 +63,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x161</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x163</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x69</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x60</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x62</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x55</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x45</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x40</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x41</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x38</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x35</span></div>
                     </div>
@@ -80,6 +80,24 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Find X Value of Array II</div>
+                            <div class="date">22 Sept 2026</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Find X Value of Array I</div>
+                            <div class="date">21 Sept 2026</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -105,24 +123,6 @@
                         <div class="infos">
                             <div class="title">Maximum Number of Non-Overlapping Substrings</div>
                             <div class="date">18 Sept 2026</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Next Permutation</div>
-                            <div class="date">17 Sept 2026</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Find Two Non-overlapping Sub-arrays Each With Target Sum</div>
-                            <div class="date">17 Sept 2026</div>
                         </div>
                     </div>
                 </section>
