@@ -19,17 +19,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.63760683760684 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">344</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4095</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.711181640625 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">345</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4096</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.84496919917864 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">115</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.18275154004107 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">116</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/974</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,9 +37,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.967213114754095 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.954588014981276 329"/>
                                     <text x="60" y="50" dominant-baseline="central">175</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2135</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2136</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -85,6 +85,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Create Grid With Exactly One Path</div>
+                            <div class="date">27 Oct 2026</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Count Islands With Total Value Divisible by K</div>
                             <div class="date">26 Oct 2026</div>
                         </div>
@@ -114,15 +123,6 @@
                         <div class="infos">
                             <div class="title">Maximum K to Sort a Permutation</div>
                             <div class="date">23 Oct 2026</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Minimum Operations to Sort a Permutation</div>
-                            <div class="date">22 Oct 2026</div>
                         </div>
                     </div>
                 </section>
